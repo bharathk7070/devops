@@ -1,4 +1,4 @@
-swagger: '2.0'
+swagger: "2.0"
 {
     "url": "https://raw.githubusercontent.com/bharathk7070/devops/main/test.yaml",
     "urls": [
